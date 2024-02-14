@@ -40,6 +40,12 @@ The RAM Memory Protector is a simple program designed to monitor RAM memory usag
 
 ---
 
+## Executable Creation
+
+This program can be bundled into an executable using PyInstaller. Once created, configure the executable to start with the system according to the conventions of your operating system to enable the daemon functionality.
+
+---
+
 ## Contributions
 
 Contributions are welcome! Feel free to open issues or send pull requests to improve this project.

@@ -6,8 +6,6 @@ import psutil
 from time import sleep
 import daemon
 
-# Tempo de verificação
-time_to_verify = 0.5
 percent_to_use = 0.8
 
 # Permitido usar até certa porcentagem da memória ram

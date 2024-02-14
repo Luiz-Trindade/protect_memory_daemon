@@ -51,6 +51,7 @@ This program can be bundled into an executable using PyInstaller. Once created, 
 `pyinstaller --onefile protect_memory_daemon.py`
 
 The executable will appear in the "dist/" folder.
+
 ---
 
 ## Contributions

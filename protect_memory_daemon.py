@@ -38,9 +38,6 @@ def Main():
         except KeyboardInterrupt:
             exit()
             
-'''def RunDaemon():
-    with DaemonContext():
-        Main()'''
 
 if __name__ == "__main__":
     main_thread = Thread(target=Main)
